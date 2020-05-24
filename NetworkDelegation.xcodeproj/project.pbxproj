@@ -13,6 +13,7 @@
 		18454AD6247938D6006A2A89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18454AD5247938D6006A2A89 /* Assets.xcassets */; };
 		18454AD9247938D6006A2A89 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18454AD8247938D6006A2A89 /* Preview Assets.xcassets */; };
 		18454ADC247938D6006A2A89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18454ADA247938D6006A2A89 /* LaunchScreen.storyboard */; };
+		18A2F3E4247983310061EB4E /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A2F3E3247983310061EB4E /* NetworkManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18454AD8247938D6006A2A89 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		18454ADB247938D6006A2A89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18454ADD247938D6006A2A89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18A2F3E3247983310061EB4E /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				18454ACF247938D5006A2A89 /* AppDelegate.swift */,
 				18454AD1247938D5006A2A89 /* SceneDelegate.swift */,
 				18454AD3247938D5006A2A89 /* ContentView.swift */,
+				18A2F3E3247983310061EB4E /* NetworkManager.swift */,
 				18454AD5247938D6006A2A89 /* Assets.xcassets */,
 				18454ADA247938D6006A2A89 /* LaunchScreen.storyboard */,
 				18454ADD247938D6006A2A89 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				18454AD0247938D5006A2A89 /* AppDelegate.swift in Sources */,
 				18454AD2247938D5006A2A89 /* SceneDelegate.swift in Sources */,
+				18A2F3E4247983310061EB4E /* NetworkManager.swift in Sources */,
 				18454AD4247938D5006A2A89 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,7 +290,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"NetworkDelegation/Preview Content\"";
-				DEVELOPMENT_TEAM = MMZ2N22V78;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = NetworkDelegation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -306,7 +310,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"NetworkDelegation/Preview Content\"";
-				DEVELOPMENT_TEAM = MMZ2N22V78;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = NetworkDelegation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
