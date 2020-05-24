@@ -37,7 +37,7 @@ class NetworkManager {
 }
 ```
 
-3. Confrom the `NetworkDelegate` in your desired View.
+3. Conform the `NetworkDelegate` in your desired View.
 
 ```swift
 struct ContentView: View {
