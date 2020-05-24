@@ -1,4 +1,4 @@
-# NetworkDelegation
+# Networking with Protocols 🤞
 Basic usage of Delegates in Network Calls.
 
 1. Create a Protocol for listening events occuring in Network functions.
