@@ -11,7 +11,7 @@ protocol NetworkDelegate {
 }
 ```
 
-2. Create an Singleton class `NetworkManager` to manage networking in application.
+2. Create a Singleton class `NetworkManager` to manage networking in application.
 - Add `delegate` property to assign `NetworkDeleagate` properties.
 
 ```swift
