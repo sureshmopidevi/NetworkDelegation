@@ -37,7 +37,7 @@ class NetworkManager {
 }
 ```
 
-3. Conform the `NetworkDelegate` in your desired View.
+3. Conform to the `NetworkDelegate` in your desired View.
 
 ```swift
 struct ContentView: View {
@@ -54,7 +54,7 @@ struct ContentView: View {
 }
 ```
 
-4. Make Network call when tap on buttons
+4. Make Network call when tapping on buttons
 
 - Here we are making two calls
      1. Success Call with `GET SUCCESS RESPONSE` Button
@@ -71,7 +71,7 @@ Button("GET FAILED RESPONSE") {
       NetworkManager.shared.fetch(urlString: "2398")
    }
 ```
-5. Add the delegate functions and confrim to view
+5. Add the delegate functions and confirm to view
 
 ```swift
 extension ContentView: NetworkDelegate {
