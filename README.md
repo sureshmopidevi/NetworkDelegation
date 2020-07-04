@@ -95,6 +95,6 @@ extension ContentView: NetworkDelegate {
 ```
 ### Demo output
 
-![screenshot](https://user-images.githubusercontent.com/49426260/82753248-e09fe880-9de1-11ea-8882-f7692baaf75f.png)
+![screenshot](https://github.com/sureshmopidevi/NetworkDelegation/blob/master/82753248-e09fe880-9de1-11ea-8882-f7692baaf75f.png?raw=true)
 
 
