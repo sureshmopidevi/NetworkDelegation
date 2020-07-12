@@ -1,4 +1,9 @@
 # 🌐 Networking with Protocols 
+
+### Output
+
+![screenshot](https://github.com/sureshmopidevi/NetworkDelegation/blob/master/82753248-e09fe880-9de1-11ea-8882-f7692baaf75f.png?raw=true)
+
 Basic usage of Delegates in Network Calls.
 
 1. Create a Protocol for listening events occuring in Network functions.
@@ -93,8 +98,5 @@ extension ContentView: NetworkDelegate {
 }
 
 ```
-### Demo output
-
-![screenshot](https://github.com/sureshmopidevi/NetworkDelegation/blob/master/82753248-e09fe880-9de1-11ea-8882-f7692baaf75f.png?raw=true)
 
 
